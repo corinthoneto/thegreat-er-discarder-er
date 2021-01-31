@@ -1,4 +1,13 @@
-# <img src="/src/img/icon48.png" align="absmiddle"> The Great Discarder
+# The Great-*er*  Discarder-*er*
+```diff
+- The Great Discarder
++ The Great-er Discarder-er
+```
+
+Since the "The Great Discarder" project has been dormant for years, and the more active project "The Great Suspender" has hit some bumps in the road, I thought I'd take a crack at publishing this fork.  Coming soon...
+
+### Original README follows
+---
 
 "The Great Discarder" is a clone of my other open source chrome extension "The Great Suspender". It was built to take advantage of Google's new 'tab discarding' functionality which is essentially a native implementation of tab suspension.
 This implementation is more robust and performant, both in the resources consumed by the extension, and the memory savings of the tab suspension. It is also compatible with chrome tab history syncing.
